@@ -18,8 +18,22 @@ h2{
     font-size: 2rem;
     font-weight: 100;
     font-family: 'Times New Roman', Times, serif;
+    color: #ffffff;}
+
+  h7{ 
+    font-size: 1.7rem;
+    font-weight: 100;
+    font-family: 'Times New Roman', Times, serif;
     color: #ffffff;
   }
+
+  h8{
+    font-size: 1.3rem;
+    font-weight: 100;
+    font-family: 'Times New Roman', Times, serif;
+  }
+
+  
   #logo a {
     display: block;
     color: #9a6bd3;
@@ -89,4 +103,12 @@ margin-left: -60px ;
 .imagem01{
   width: 80px;
   height: 80px;
+}
+
+#grafico{
+  margin-top: 250px;
+}
+
+#mulher2{
+  margin-top: 60px;
 }
