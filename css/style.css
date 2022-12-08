@@ -107,8 +107,12 @@ margin-left: -60px ;
 
 #grafico{
   margin-top: 250px;
+  margin-left: 200px;
+  position: relative;
 }
 
 #mulher2{
   margin-top: 60px;
+  position: relative;
+  margin-left: 200px;
 }
